@@ -38,3 +38,10 @@ Columns analyzed include:
 - `total_deaths`
 - `population`
 - `people_vaccinated`
+
+## 📁 Sample Data
+To help replicate the queries, sample datasets have been included:
+- `CovidDeaths.csv`
+- `CovidVaccination.csv`
+
+These represent simplified versions of the original tables used in SQL Server.
